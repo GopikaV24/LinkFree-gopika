@@ -1,6 +1,6 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/EddieHubCommunity/LinkFree)
 
-# LinkFree by EddieHub
+# LinkFree by EddieHub1
 
 - LinkFree connects audiences to all of your content with just one link. It is an open-source alternative to [Linktree](https://linktr.ee/) implemented in JavaScript.
 - It was initially created on a YouTube [live stream](https://www.youtube.com/watch?v=Jorl_vcp-Ew).
